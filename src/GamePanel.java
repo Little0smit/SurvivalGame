@@ -22,6 +22,7 @@ public class GamePanel extends JPanel implements Runnable, KeyListener {
 
     public static Player player;
     public static ArrayList<Bullet> bullets;
+    public static ArrayList<Orbs> food;
 
     //CONSTRUCTOR
     public GamePanel() {
@@ -50,6 +51,7 @@ public class GamePanel extends JPanel implements Runnable, KeyListener {
 
         player = new Player();
         bullets = new ArrayList<>();
+        food = new ArrayList<Orbs>();
 
         long startTime;
         long URDTimeMills;
