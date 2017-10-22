@@ -1,6 +1,7 @@
 # Project Title
 
-One Paragraph of project description goes here
+Basic game where you are an orb floating around, and have to survive as long as possible before dying. You're size will slowly shrink but you can grow it by consuming smaller orbs around the map.
+Project was created to make a base game that i can later create an AI to use neural nets to learn to play.
 
 ## Getting Started
 
@@ -8,7 +9,7 @@ Import project into prefered IDE
 
 ### Prerequisites
 
-Any Java ide (Personally using IntelliJ IDEA 2017.2.4
+Any Java ide (Personally using IntelliJ IDEA 2017.2.4)
 
 ## Running the tests
 
